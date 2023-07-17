@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Flutter**
 
+- 🎪 I'm currently Workign on **Wordpress** 
+
 - 📫 How to reach me **jk0904860@gmail.com**
 
 - ⚡ Fun fact **Play circket and football**
